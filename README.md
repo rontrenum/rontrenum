@@ -3,7 +3,7 @@
 
 ## Introduction
 
-After more than sixteen years in the oil and gas industry, I’m pursuing a professional transition into the field of cybersecurity — a move driven by my passion for problem solving, systems thinking, and operational integrity. My experience in deepwater exploration and drilling optimization has sharpened my ability to analyze complex systems, identify vulnerabilities, and implement precise, policy-driven solutions under pressure.
+After more than sixteen years in the oil and gas industry, I’m pursuing a professional transition into the field residential and commercial security installation of cybersecurity — a move driven by my passion for problem solving, systems thinking, and operational integrity. My experience in deepwater exploration and drilling optimization has sharpened my ability to analyze complex systems, identify vulnerabilities, and implement precise, policy-driven solutions under pressure.
 
 Throughout my career, I’ve developed and enforced technical documentation, operational procedures, and safety policies that mirror the structure and discipline of cybersecurity frameworks. I’ve led audits, written after-action reports, and conducted root cause analyses — all requiring critical thinking, attention to detail, and data-driven decision making.
 
